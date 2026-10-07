@@ -1,10 +1,10 @@
 /**
  * @name AutoWatchStreams
  * @version 1.0.0
- * @author YOURNAME
+ * @author itsherman
  * @description Automatically watches every screen share in your voice channel. Adds each new stream to the multistream grid instead of replacing what you are already watching.
- * @source https://github.com/YOURNAME/AutoWatchStreams
- * @updateUrl https://raw.githubusercontent.com/YOURNAME/AutoWatchStreams/main/AutoWatchStreams.plugin.js
+ * @source https://github.com/itsherman/AutoWatchStreams
+ * @updateUrl https://raw.githubusercontent.com/itsherman/AutoWatchStreams/main/AutoWatchStreams.plugin.js
  */
 
 /*

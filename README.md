@@ -22,21 +22,21 @@ There is nothing to configure. Enable it and it works.
 **Windows** (PowerShell):
 
 ```powershell
-iwr "https://raw.githubusercontent.com/YOURNAME/AutoWatchStreams/main/AutoWatchStreams.plugin.js" `
+iwr "https://raw.githubusercontent.com/itsherman/AutoWatchStreams/main/AutoWatchStreams.plugin.js" `
   -OutFile "$env:APPDATA\BetterDiscord\plugins\AutoWatchStreams.plugin.js"
 ```
 
 **macOS**:
 
 ```bash
-curl -L "https://raw.githubusercontent.com/YOURNAME/AutoWatchStreams/main/AutoWatchStreams.plugin.js" \
+curl -L "https://raw.githubusercontent.com/itsherman/AutoWatchStreams/main/AutoWatchStreams.plugin.js" \
   -o ~/Library/Application\ Support/BetterDiscord/plugins/AutoWatchStreams.plugin.js
 ```
 
 **Linux**:
 
 ```bash
-curl -L "https://raw.githubusercontent.com/YOURNAME/AutoWatchStreams/main/AutoWatchStreams.plugin.js" \
+curl -L "https://raw.githubusercontent.com/itsherman/AutoWatchStreams/main/AutoWatchStreams.plugin.js" \
   -o ~/.config/BetterDiscord/plugins/AutoWatchStreams.plugin.js
 ```
 
